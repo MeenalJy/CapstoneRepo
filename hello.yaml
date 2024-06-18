@@ -1,0 +1,8 @@
+# hello-world.yaml
+greeting:
+  message: "Hello, World!"
+  language: "English"
+
+server:
+  host: "localhost"
+  port: 8080
